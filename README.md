@@ -5,7 +5,7 @@ Originally created for someone special, now open for everyone to use and share �
 
 ---
 ## 🌐 Live Demo  
-🎉 **[https://happybirthday-template.netlify.app/](https://happybirthday-template.netlify.app/)**
+🎉 (https://github.com/aahilkhanbb-hue/harshaAk.git)
 
 Fork it, customize it, and create a unique birthday experience for your loved ones 💝  
 ---
